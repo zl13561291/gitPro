@@ -1,3 +1,6 @@
-window.onload = function(){
-  console.log("这是第一个协作");
+function Drag(box) {
+	// body...
 }
+Drag.prototype.in = function() {
+	// body...
+};
